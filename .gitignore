@@ -1,2 +1,4 @@
 .idea/*
 .python-version
+.ipynb_checkpoints
+EELSspecAnalysis.ipynb
